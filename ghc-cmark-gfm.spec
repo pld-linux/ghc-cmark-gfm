@@ -6,7 +6,7 @@
 Summary:	Fast, accurate GitHub Flavored Markdown parser and renderer
 Name:		ghc-%{pkgname}
 Version:	0.2.1
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Languages
 #Source0Download: http://hackage.haskell.org/package/cmark-gfm
